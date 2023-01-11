@@ -1,0 +1,1 @@
+simply open the index.html file in your browser and only edit the sketch.js file for your liking
